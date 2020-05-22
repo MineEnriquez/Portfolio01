@@ -41,7 +41,7 @@ const IndexPage = () => (
                   In the past I've worked for Microsoft (for more than 12 years) both as full time and as a vendor.
                   While being here, I have participated in projects with Windows, Windows Phone, MSN, Office Engineering,
                   Office Online, LCA IT, Microsoft Stores, Cortana Intelligence, and Research AI.
-                  During this journey, I have met amazing people and contributed to the making of great products.
+                  During this journey, I have met amazing people and contributed to the making of great projects.
 
                   I am married, and I have two kids (twins) Daniel and Stephanie, and a tiny dog, Willy. When time permits,
                   we enjoy hiking, running, swimming or going to the movies and of course watching football, go Seahawks!.
