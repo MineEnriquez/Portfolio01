@@ -2,16 +2,16 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import product1 from '../assets/images/projects-01.jpg';
-import product2 from '../assets/images/projects-02.jpg';
-import product3 from '../assets/images/projects-03.jpg';
+import project1 from '../assets/images/projects-01.jpg';
+import project2 from '../assets/images/projects-02.jpg';
+import project3 from '../assets/images/projects-03.jpg';
 
 const IndexPage = () => (
   <Layout activeLink="projects">
     <section className="page-section">
       <div className="container">
-        <div className="product-item">
-          <div className="product-item-title d-flex">
+        <div className="project-item">
+          <div className="project-item-title d-flex">
             <div className="bg-faded p-5 d-flex ml-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
@@ -24,11 +24,11 @@ const IndexPage = () => (
             </div>
           </div>
           <img
-            className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
-            src={product1}
+            className="project-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
+            src={project1}
             alt=""
           />
-          <div className="product-item-description d-flex mr-auto">
+          <div className="project-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 We take pride in our work, and it shows. Every time you order a
@@ -46,8 +46,8 @@ const IndexPage = () => (
 
     <section className="page-section">
       <div className="container">
-        <div className="product-item">
-          <div className="product-item-title d-flex">
+        <div className="project-item">
+          <div className="project-item-title d-flex">
             <div className="bg-faded p-5 d-flex mr-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
@@ -60,11 +60,11 @@ const IndexPage = () => (
             </div>
           </div>
           <img
-            className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
-            src={product2}
+            className="project-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
+            src={project2}
             alt=""
           />
-          <div className="product-item-description d-flex ml-auto">
+          <div className="project-item-description d-flex ml-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Our seasonal menu features delicious snacks, baked goods, and
@@ -80,8 +80,8 @@ const IndexPage = () => (
 
     <section className="page-section">
       <div className="container">
-        <div className="product-item">
-          <div className="product-item-title d-flex">
+        <div className="project-item">
+          <div className="project-item-title d-flex">
             <div className="bg-faded p-5 d-flex ml-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
@@ -94,11 +94,11 @@ const IndexPage = () => (
             </div>
           </div>
           <img
-            className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
-            src={product3}
+            className="project-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
+            src={project3}
             alt=""
           />
-          <div className="product-item-description d-flex mr-auto">
+          <div className="project-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Travelling the world for the very best quality coffee is
