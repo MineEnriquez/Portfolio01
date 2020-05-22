@@ -15,18 +15,15 @@ const IndexPage = () => (
           />
           <div className="intro-text left-0 text-center bg-faded p-5 rounded">
             <h2 className="section-heading mb-4">
-              <span className="section-heading-upper">Fresh Coffee</span>
-              <span className="section-heading-lower">Worth Drinking</span>
+              <span className="section-heading-upper">placeholder</span>
+              <span className="section-heading-lower">placeholder</span>
             </h2>
             <p className="mb-3">
-              Every cup of our quality artisan coffee starts with locally
-              sourced, hand picked ingredients. Once you try it, our coffee will
-              be a blissful addition to your everyday morning routine - we
-              guarantee it!
+              placeholder
             </p>
             <div className="intro-button mx-auto">
               <a className="btn btn-primary btn-xl" href="/#">
-                Visit Us Today!
+                placeholder
               </a>
             </div>
           </div>
